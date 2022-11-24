@@ -1,1 +1,1 @@
-loadstring('https://github.com/6frr/hubinitialize/blob/main/gloomwatermain')
+loadstring(game:HttpGet('https://raw.githubusercontent.com/6frr/hubinitialize/main/gloomwatermain'))()
